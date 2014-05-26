@@ -1,6 +1,6 @@
 For MAC users: 
 
-download the zip file and unzip the file and click on it.
+download the Game.zip file and unzip the file and click on it.
 
 
 RULES:
